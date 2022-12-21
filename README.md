@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulhakim Altunkaya</h1>
-<h3 align="center">Solidity Smart Contract || Full Stack MERN Developer</h3>
+<h3 align="center">Solidity Smart Contract Developer || MERN Web Developer || Agile Certified || React.js E-commerce websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhakim-altunkaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhakim-altunkaya" /> </p>
 
