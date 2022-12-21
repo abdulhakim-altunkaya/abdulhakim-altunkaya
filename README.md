@@ -66,8 +66,6 @@
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="buymeacoff.ee/softtomato"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/softtomato" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhakim-altunkaya&show_icons=true&locale=en&layout=compact" alt="abdulhakim-altunkaya" /></p>
@@ -75,4 +73,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhakim-altunkaya&show_icons=true&locale=en" alt="abdulhakim-altunkaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhakim-altunkaya&" alt="abdulhakim-altunkaya" /></p>
-
