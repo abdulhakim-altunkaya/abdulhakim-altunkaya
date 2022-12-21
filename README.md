@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulhakim Altunkaya</h1>
-<h3 align="center">Solidity Smart Contract Developer || MERN Web Developer || Agile Certified || React.js E-commerce websites</h3>
-
+<h3 align="center">Solidity & MERN Developer </h3>
+<br>
+<h4 align="center">Solidity Smart Contract Developer || MERN Web Developer || Agile Certified || React.js E-commerce websites</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhakim-altunkaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhakim-altunkaya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhakim-altunkaya" alt="abdulhakim-altunkaya" /></a> </p>
